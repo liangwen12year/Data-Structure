@@ -1,0 +1,2 @@
+﻿stack.obj : error LNK2019: unresolved external symbol _fget referenced in function _parentheses_check
+C:\Users\hliang\Desktop\Daily7\Debug\Daily7.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,40 @@
+﻿  vector.c
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(8): error C2059: syntax error: '*'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(9): error C2059: syntax error: '}'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(16): error C2027: use of undefined type 'vector'
+  c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(5): note: see declaration of 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(19): error C2037: left of 'size' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(20): error C2037: left of 'capacity' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(21): error C2037: left of 'data' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(21): error C2059: syntax error: 'type'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(22): error C2037: left of 'data' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(34): error C2037: left of 'size' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(34): warning C4033: 'vector_get_size' must return a value
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(40): error C2037: left of 'capacity' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(40): warning C4033: 'vector_get_capacity' must return a value
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(51): error C2037: left of 'size' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(51): error C2037: left of 'capacity' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(53): error C2037: left of 'capacity' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(53): error C2198: 'malloc': too few arguments for call
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(58): error C2037: left of 'size' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(60): error C2037: left of 'data' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(62): error C2037: left of 'data' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(62): error C2198: 'free': too few arguments for call
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(63): error C2037: left of 'data' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(64): error C2037: left of 'capacity' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(67): error C2037: left of 'data' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(67): error C2037: left of 'size' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(68): error C2037: left of 'size' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(74): error C2037: left of 'size' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(78): error C2037: left of 'size' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(85): error C2037: left of 'size' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(89): error C2037: left of 'data' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(89): warning C4033: 'vector_at' must return a value
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(94): error C2037: left of 'data' specifies undefined struct/union 'vector'
+c:\users\hliang\desktop\comp 1020\vector\vector\vector.c(94): error C2198: 'free': too few arguments for call
+  main.c
+c:\users\hliang\desktop\comp 1020\vector\vector\main.c(26): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\hliang\desktop\comp 1020\vector\vector\main.c(26): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+c:\users\hliang\desktop\comp 1020\vector\vector\main.c(29): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\hliang\desktop\comp 1020\vector\vector\main.c(29): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+  Generating Code...

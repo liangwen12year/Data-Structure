@@ -1,0 +1,5 @@
+﻿  bit_flags.c
+c:\users\hliang\desktop\comp 1020\program1_resubmit\program1_resubmit\bit_flags.c(124): warning C4101: 'j': unreferenced local variable
+c:\users\hliang\desktop\comp 1020\program1_resubmit\program1_resubmit\bit_flags.c(124): warning C4101: 'i': unreferenced local variable
+  Program1_resubmit.vcxproj -> C:\Users\hliang\Desktop\comp 1020\Program1_resubmit\Debug\Program1_resubmit.exe
+  Program1_resubmit.vcxproj -> C:\Users\hliang\Desktop\comp 1020\Program1_resubmit\Debug\Program1_resubmit.pdb (Partial PDB)

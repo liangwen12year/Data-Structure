@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\hliang\desktop\comp 1020\linked_list\linked_list\main.c(36): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Node *'
+c:\users\hliang\desktop\comp 1020\linked_list\linked_list\main.c(85): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Node *'
+  Linked_list.vcxproj -> C:\Users\hliang\Desktop\comp 1020\Linked_list\Debug\Linked_list.exe
+  Linked_list.vcxproj -> C:\Users\hliang\Desktop\comp 1020\Linked_list\Debug\Linked_list.pdb (Partial PDB)

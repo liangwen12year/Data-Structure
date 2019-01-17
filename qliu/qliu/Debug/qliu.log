@@ -1,0 +1,5 @@
+﻿  program1.c
+c:\users\hliang\desktop\new folder (2)\program1.c(17): warning C4013: 'bit_flags_get_capacity' undefined; assuming extern returning int
+c:\users\hliang\desktop\new folder (2)\program1.c(26): warning C4013: 'bit_flags_destroy' undefined; assuming extern returning int
+  qliu.vcxproj -> C:\Users\hliang\Desktop\qliu\Debug\qliu.exe
+  qliu.vcxproj -> C:\Users\hliang\Desktop\qliu\Debug\qliu.pdb (Partial PDB)

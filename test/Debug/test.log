@@ -1,0 +1,14 @@
+﻿  program1.c
+c:\users\hliang\desktop\new folder (2)\program1.c(17): warning C4013: 'bit_flags_get_capacity' undefined; assuming extern returning int
+  bit_flags.c
+  Generating Code...
+c:\users\hliang\desktop\new folder (2)\bit_flags.c(143): warning C4715: 'bit_flags_check_flag': not all control paths return a value
+Source.obj : error LNK2005: _bit_flags_check_flag already defined in bit_flags.obj
+Source.obj : error LNK2005: _bit_flags_destroy already defined in bit_flags.obj
+Source.obj : error LNK2005: _bit_flags_get_capacity already defined in bit_flags.obj
+Source.obj : error LNK2005: _bit_flags_get_size already defined in bit_flags.obj
+Source.obj : error LNK2005: _bit_flags_init_number_of_bits already defined in bit_flags.obj
+Source.obj : error LNK2005: _bit_flags_set_flag already defined in bit_flags.obj
+Source.obj : error LNK2005: _bit_flags_unset_flag already defined in bit_flags.obj
+Source.obj : error LNK2005: _main already defined in program1.obj
+C:\Users\hliang\Desktop\test\Debug\test.exe : fatal error LNK1169: one or more multiply defined symbols found
